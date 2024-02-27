@@ -1,2 +1,3 @@
 # Tic Tac Toe
- Tic Tac Toe | Mini Project
+ This game is played between two players.
+ I will also add an AI (Computer Player) later In Shaa Allah ! .
